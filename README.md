@@ -7,6 +7,8 @@
 
 Proyek **Exploratory Data Analysis (EDA)** dan pemodelan klasifikasi prediktif untuk mendeteksi secara dini potensi pengabaian sesi atau keranjang belanja (*cart/session abandonment*) pada platform *e-commerce* berdasarkan jejak klik (*clickstream*) dan metrik perilaku pengunjung.
 
+Nama    :Retno Setioningrum
+NIM     : 26MA41D019
 ---
 
 ## 📌 Latar Belakang & Tujuan Utama
